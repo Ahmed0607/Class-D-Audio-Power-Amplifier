@@ -24,7 +24,7 @@ This project bridges the gap between **Analog Electronics** and **Signal Process
 ## 📸 Schematics & Results
 ![Circuit Schematic](./images/schematic.jpeg)
 
-![Output Waveform](./images/waveform.jpeg)
+![Output Waveform](./images/waveform.png)
 
 ## 📄 License
 MIT License
