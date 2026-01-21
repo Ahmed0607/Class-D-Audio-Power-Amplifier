@@ -22,9 +22,9 @@ This project bridges the gap between **Analog Electronics** and **Signal Process
 * **Components:** MOSFETs (IRF series), Comparators, LC Components built using op-amps.
 
 ## 📸 Schematics & Results
-![Circuit Schematic](./images/schematic.png)
+![Circuit Schematic](./images/schematic.jpeg)
 
-![Output Waveform](./images/waveform.png)
+![Output Waveform](./images/waveform.jpeg)
 
 ## 📄 License
 MIT License
